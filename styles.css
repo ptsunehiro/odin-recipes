@@ -1,0 +1,12 @@
+.hero_img {
+  width: 400px;
+}
+
+html {
+  font-family: "SF Pro", sans-serif;
+  margin-left: 200px;
+}
+
+li {
+  line-height: 28px;
+}
